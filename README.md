@@ -1,5 +1,5 @@
 # Tarea Final.
  
- Jhonatan S. Blanco
- María Fernanda Estupiñan.
+ Jhonatan S. Blanco |
+ María Fernanda Estupiñan. |
  Juan Celis.
